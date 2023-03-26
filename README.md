@@ -1,6 +1,6 @@
 # Hello World! 👋
 ## 🚀 About Me
-I'm a student in Indonesia who learnd to code through youtube.
+I'm a middle school student in Indonesia who learnd to code through youtube.
 
 ## 🛠 Tools and Languages
 ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![C#](https://img.icons8.com/color/30/c-sharp-logo.png)![C++](https://img.icons8.com/color/30/c-plus-plus-logo.png)![Github](https://img.icons8.com/color-glass/30/github.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
