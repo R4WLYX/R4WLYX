@@ -1,6 +1,6 @@
 # Hello World! 👋
 ## 🚀 About Me
-I'm a middle school student in Indonesia. I have experience coding in Lua, C#, HTML, JavaScript, CSS, and now C++.
+I'm a high school student in Indonesia. I have experience coding in Lua, C#, HTML, JavaScript, CSS, and now C++.
 
 ## ☑️ 2023 Goals
 - [ ] Make a game engine (Currently Working On).
