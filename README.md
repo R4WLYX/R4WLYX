@@ -8,7 +8,7 @@ I'm a middle school student in Indonesia. I have experience coding in Lua, C#, H
 - [ ] Make a 3D evolution simulation.
 
 ## 🛠 Tools and Languages I Use
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![C#](https://img.icons8.com/color/30/c-sharp-logo.png)![C++](https://img.icons8.com/color/30/c-plus-plus-logo.png)![Github](https://img.icons8.com/color-glass/30/github.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+![Lua](https://img.icons8.com/color/30/lua-language.png)![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![C#](https://img.icons8.com/color/30/c-sharp-logo.png)![C++](https://img.icons8.com/color/30/c-plus-plus-logo.png)![Github](https://img.icons8.com/color-glass/30/github.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
 
 ## 📊 My Stats
 <p align="left">
