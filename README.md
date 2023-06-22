@@ -12,7 +12,7 @@ I'm a high school student in Indonesia. I have experience coding in Lua, C#, HTM
 
 ## 📊 My Stats
 <p align="left">
-  <a href="https://github.com/rampfox">
+  <a href="https://github.com/r4wlyx">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R4WLYX&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4WLYX&layout=compact&langs_count=8&theme=github_dark">
   </a>
