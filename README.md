@@ -13,7 +13,6 @@ I'm a student in SMA Labschool kebayoran in Indonesia. I have experience program
 ## 📊 My Stats
 <p align="left">
   <a href="https://github.com/r4wlyx#" style="display: flex;">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=R4WLYX&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true">
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4WLYX&layout=compact&langs_count=8&theme=github_dark">
   </a>
 </p>
